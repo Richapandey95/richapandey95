@@ -67,7 +67,8 @@
 
 | 🗂️ Project | 🛠️ Tech Used | 🔗 Link |
 |------------|-------------|---------|
-| 🕯️ Lumière Scented Candles | HTML, CSS, JS | Coming Soon |
+| ❤ Elite NRI's Club  | HTML, CSS, JS | MySQL , PHP  |  🔨 In Progress
+💎 Holiday Travel Canvass | HTML, CSS, JS | MySQL , PHP  |  🔨 In Progress
 | 🛒 More projects uploading... | PHP, MySQL, MERN | 🔨 In Progress |
 
 ---
@@ -75,10 +76,10 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:richapandey95@gmail.com">
+  <a href="mailto:richapandey665@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/richapandey95">
+  <a href="[https://www.linkedin.com/in/richa-pandey-290aa8223/]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/richapandey95">
