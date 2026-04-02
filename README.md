@@ -19,7 +19,7 @@
 - 🌱 Learning **React.js, Node.js & MongoDB**
 - 🛠️ Delivered **multiple live client projects**
 - 💬 Ask me about **PHP, MySQL, JavaScript, HTML, CSS**
-- 📍 Based in **Bhopal, India**
+- 📍 Based in **Indore, India**
 - ⚡ Fun fact: I turn client ideas into real working websites!
 
 ---
