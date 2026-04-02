@@ -67,8 +67,8 @@
 
 | 🗂️ Project | 🛠️ Tech Used | 🔗 Link |
 |------------|-------------|---------|
-| ❤ Elite NRI's Club  | HTML, CSS, JS | MySQL , PHP  |  🔨 In Progress
-💎 Holiday Travel Canvass | HTML, CSS, JS | MySQL , PHP  |  🔨 In Progress
+| ❤ Elite NRI's Club  | HTML, CSS, JS MySQL , PHP  |https://elitenrisclub.com/ 
+💎 Holiday Travel Canvass | HTML, CSS, JS | MySQL , PHP (https://travelcanvassholidays.com/)
 | 🛒 More projects uploading... | PHP, MySQL, MERN | 🔨 In Progress |
 
 ---
